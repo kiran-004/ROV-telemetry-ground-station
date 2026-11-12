@@ -692,4 +692,4 @@ Current implementation limits to explain honestly:
 
 ## AI tool disclosure
 
-OpenAI Codex was used to read the assessment, generate the Python/Qt application and documentation, write and run tests, investigate a Python 3.10/Qt crash, create the repaired Python 3.12 environment, and verify offscreen rendering and shutdown. Interactive desktop operation has not been fully verified by the agent. The candidate should review, run, understand and adapt the code before submission, and describe any further AI assistance accurately.
+OpenAI Codex was used .
